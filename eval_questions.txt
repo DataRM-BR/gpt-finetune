@@ -1,0 +1,40 @@
+What are the minimum qualifications that the vendor must meet in order to be considered responsive to the RFP?
+What is the purpose of the FAS Service Review in the Human Services Case Management System?
+What capability does the system need to have in order to track referrals sent to the program and their disposition?
+What is the purpose of the online intake form in the Human Services Case Management System?
+What are the hosting and performance requirements for the Human Services Case Management System?
+What is the preferred format for submitting the offer documents electronically?
+What is the specific mention of Power BI in the RFP document?
+What are the fields required for Quick Service in the Human Services Case Management System?
+What is the purpose of the Compliance Checklist mentioned in the context?
+What are the insurance requirements for the Consultant and subcontractors in relation to the performance of the work under this Contract?
+What capability does the FAC Referral Dashboard/Search provide?
+What are the required fields for case notes in the Human Services Case Management System?
+What is the expected response time for resolving critical system problems in the Human Services Case Management System?
+What information should be displayed on the caseworker dashboard?
+What is the solicitation number for the RFP?
+What is the deadline for filing a protest regarding an adverse determination issued by the City?
+What are the fields that can be used to search for clients in the Human Services Case Management System?
+What are the evaluation criteria for awarding contracts in accordance with Administrative Regulation 3.10?
+What capability does the system provide for tracking referrals?
+What are the different types of non-financial assistance that the system should track?
+What is the purpose of the Prefilled Client Release of Information (ROI)?
+What is the process for managing gift card inventory in the Family Services Center Program?
+What are the details captured for Passes and Vouchers in the Human Services Case Management System?
+What is the purpose of the LTP Fund Matrix mentioned in the RFP?
+What are the fields included in the Case File Summary for the Landlord and Tenant Program?
+What reporting capability does the program use for operational reasons?
+What reporting capabilities does the program have for grants and operational reasons?
+What is the purpose of the Child Support Referral Form mentioned in the context?
+What information is collected for each appointment for the resident data?
+What is the rating criteria for the Offeror's response to the requirements?
+What is the purpose of the work plan in the Resident Case File?
+What is the purpose of the COP Weekly Report in the Human Services Case Management System?
+What types of services are provided to victims of domestic and sexual violence, homicide, and other violent crimes at the Family Advocacy Center?
+What fields are required for capturing client information in the FAC Program?
+What are the conditions that need to be met for rent service status to be set to "Submitted" and forwarded to Supervisor Staff for approval?
+What are the restrictions on making changes to services after they are approved in the Human Services Case Management System?
+What are the different types of financial services required for this project?
+What information is captured for household members in the Client Case File?
+What are the requirements for the Consultant's registration in the System for Award Management (SAM)?
+What is the process for handling information marked as "confidential" in the evaluation of offers?

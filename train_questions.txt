@@ -1,0 +1,40 @@
+What are the four types of collateral contact forms in the Client Case File for the Human Services Case Management System?
+What is the section number for the Work Plan in the RFP?
+What are the different types of financial services provided by the program?
+What is the purpose of the Services Today Report mentioned in Exhibit D - 2.1.18.1?
+What is the purpose of the FSC Portal Integration in the Human Services Case Management System?
+What is the requirement of the consultant regarding the Victims of Human Trafficking?
+What are the details captured for Passes and Vouchers in the Human Services Case Management System?
+What are the fields required for recording and tracking gift cards purchased?
+What is the purpose of the Letter of Guarantee in the RFP for a Human Services Case Management System?
+What is the purpose of the Self Sufficiency Matrix in the Client Case File?
+What is the solicitation number for the RFP?
+What are the administrative functions that the administrative staff should be able to perform in the Human Services Case Management System?
+What are the different types of housing assistance services that should be supported by the system?
+What fields are required for the overall plan objective in the case management system?
+What is the purpose of the VOCA Quarterly Report mentioned in the RFP?
+What types of appointments can be scheduled at the Family Service Center locations?
+What is the hourly rate for enhancements for the Human Services Case Management System?
+What are the fields included in the Case Management Summary for the FAC Program?
+What is the purpose of the APRAIS setup in the Admin Setup section of the RFP?
+What fields are required for the income summary in the Client Case File?
+What is the purpose of the FAC Referral Dashboard mentioned in the RFP?
+What is the solicitation number for this RFP?
+What are the fields required for capturing offender information in the Client Case File for the FAC Program?
+What are the required fields for case notes in the Human Services Case Management System?
+What information is collected for each resident when booking an appointment for utility or rent assistance?
+What is the purpose of the Submitted Utilities Report in the Human Services Case Management System?
+What is the purpose of the CBDG Quarterly Report mentioned in the RFP?
+What are the requirements for password security in the user access of the Human Services Case Management System?
+What is the purpose of generating a printed report for the Caseworker to sign electronically?
+What are the insurance coverage requirements for the Consultant in relation to bodily injury, property damage, and personal and advertising injury?
+What is the purpose of the CSD Billable Hours List Report?
+What is the required data retention period for the Human Services Case Management System?
+What are the fields that the caseworker can enter for staffing in the Human Services Case Management System?
+What is the purpose of the Fund Matrix in the Human Services Case Management System RFP?
+What is the purpose of setting the service status to "Submitted" and forwarding it to Supervisor Staff for approval?
+What are the required submittals in Section 6 of the RFP?
+What are the capabilities of the staff dashboard in the Human Services Case Management System?
+What is the purpose of the Accounting Journal Corrections Report for the Fiscal Staff?
+What is the purpose of creating a case file in the FAC Program?
+What types of reports are required for grant reporting, compliance, and operations in the Human Services Case Management System?
